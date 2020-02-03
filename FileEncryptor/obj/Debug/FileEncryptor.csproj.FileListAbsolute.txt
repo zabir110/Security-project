@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\project\FileEncryptor\bin\Debug\FileEncryptor.exe.config
+C:\Users\User\Desktop\project\FileEncryptor\bin\Debug\FileEncryptor.exe
+C:\Users\User\Desktop\project\FileEncryptor\bin\Debug\FileEncryptor.pdb
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\FileEncryptor.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\DecryptionSettingWindow.baml
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\SettingWindow.baml
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\DecryptionSettingWindow.g.cs
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\SettingWindow.g.cs
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\App.g.cs
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\FileEncryptor_MarkupCompile.cache
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\FileEncryptor.g.resources
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\FileEncryptor.Properties.Resources.resources
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\FileEncryptor.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\FileEncryptor.exe
+C:\Users\User\Desktop\project\FileEncryptor\obj\Debug\FileEncryptor.pdb
